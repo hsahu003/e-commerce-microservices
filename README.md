@@ -1,4 +1,4 @@
-# e-commerce-microservices
+# Microservices Arcitectured E-Commerce Backend 
 Microservices e-commerce backend built with springboot
 
 ## Services
