@@ -1,5 +1,5 @@
-# Microservices Architectured E-Commerce Backend 
-Microservices e-commerce backend built with springboot
+# Microservices Architectured E-Commerce Backend
+Built with Spring Boot
 
 ## Services
 - [Product Service](https://github.com/hsahu003/ecommerce-backend-productservice)
